@@ -1,10 +1,10 @@
-# 🚀 Welcome to hyprZona's Cosmic Corner! 🌌
+# 🚀 Welcome to hyprZona's tachnical Corner! 🌌
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hyprZona.hyprZona)
 
 ## 🎭 Who Am I?
 
-Hey there, cosmic traveler! 👋 I'm the mastermind behind hyprZona, your guide through the realms of imagination and pixels. Buckle up for a journey through my digital universe!
+Hey there, Binary Text! 👋 I'm the mastermind behind hyprZona, your guide through the realms of imagination and pixels. Buckle up for a journey through my digital universe!
 
 ## 🌟 Current Quests
 
@@ -15,17 +15,17 @@ Hey there, cosmic traveler! 👋 I'm the mastermind behind hyprZona, your guide 
 
 ## 🎨 Projects That'll Blow Your Mind
 
-### 📘 [The T'N'T: Prologue](https://link-to-ebook)
-Dive into a world where reality bends and imagination reigns supreme. This eBook will leave you questioning everything you thought you knew!
+### 📘 [The T'N'T: Prologue](https://hyprZona.github.io/ebooks/TNT)
+Dive into the fiction country of the U.I.P. where our Protagonist Duo, Tom & Tim reside and fight for justice. It is not your regular cop story!
 
-### 🕹️ [Beyond The Illusions](https://hyprZona.itch.io/beyond-the-illusions)
-Ready to have your perception shattered? This game will take you on a journey beyond the boundaries of reality!
+### 🕹️ [Beyond The Illusions](https://hyprZona.itch.io/BTI)
+Ready to have your perception shattered? This game will take you on a journey beyond the boundaries of reality! (Playable Prototype)
 
-### 🎵 [Beyond The Illusions: Soundtrack](https://youtube.com/link-to-playlist)
+### 🎵 [Beyond The Illusions: Soundtrack](https://youtube.com/playlist?list=PLOzPaRHfKncSMCmolutJMnqGW1oNyo03B)
 Immerse yourself in the haunting melodies and pulse-pounding rhythms that bring the world of Beyond The Illusions to life!
 
 ### 🎮 Memories (Coming Soon)
-Prepare for a mind-bending adventure that will challenge your understanding of time, space, and consciousness!
+Prepare for a mind-bending psychological horror dark love story set in a magical world.
 
 ### 🎶 Memories: The Soundtrack (Coming Soon)
 Get ready for an auditory experience that will transport you to realms unknown!
