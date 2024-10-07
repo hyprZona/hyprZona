@@ -63,7 +63,7 @@ Fading Ashes is my musical alter ego, where I create soundscapes that defy genre
 
 ## 🎵 Vibe with Me
 
-[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/hyprZona)
+[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/31nvjcdbbqxzlap5nie5jngwajuu)
 
 ---
 
