@@ -55,7 +55,7 @@ Fading Ashes is my musical alter ego, where I create soundscapes that defy genre
 [![Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](https://hyprZona.github.io)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hyprZona)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hyprZona)
-[![Music SubDivision Instagram](https://img.shields.io/badge/-Instagram%20Alt-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fadingasheshyprzona)
+[![Music SubDivision Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fadingasheshyprzona)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/hyprZona)
 [![YouTube Music](https://img.shields.io/badge/-YouTube%20Music-FF0000?style=flat-square&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/@FadingAshes-hyprZona)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/@hyprZona)
